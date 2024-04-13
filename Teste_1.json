@@ -138,6 +138,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 6,
+          "height": 380,
+          "layer": "",
+          "name": "Potato",
+          "persistentUuid": "47f63307-a575-488f-a004-8ba95c5f1d38",
+          "width": 380,
+          "x": 853,
+          "y": 135,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 6,
+          "height": 380,
+          "layer": "",
+          "name": "Potato",
+          "persistentUuid": "c8f36940-0d4b-4120-a95b-60303f3f3228",
+          "width": 380,
+          "x": 54,
+          "y": 57,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
